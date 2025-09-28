@@ -46,14 +46,14 @@ Unreal Engine dungeon generator with room validation, item placement, and dynami
 
 ## 📊 GitHub Stats  
 
-![Sauliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauliya23&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauliya23&layout=compact&theme=tokyonight)  
+![Sauliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauliyaUni&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauliyaUni&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🔥 Contribution Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauliya23&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SauliyaUni&theme=tokyonight)  
 
 ---
 
@@ -65,6 +65,6 @@ Unreal Engine dungeon generator with room validation, item placement, and dynami
 
 ## 📫 Connect with Me  
 📧 [Email](mailto:sauliya23@gmail.com)  
-💻 [GitHub Profile](https://github.com/sauliya23)  
+💻 [GitHub Profile](https://github.com/SauliyaUni)  
 📱 07867077651  
 
